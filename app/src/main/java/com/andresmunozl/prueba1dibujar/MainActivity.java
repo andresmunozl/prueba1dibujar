@@ -42,7 +42,6 @@ public class MainActivity extends AppCompatActivity {
                 ruta.moveTo(posX,posY);
 
             }
-            //cambio
             if(accion== "moviendo"){
                 ruta.lineTo(posX,posY);
             }
